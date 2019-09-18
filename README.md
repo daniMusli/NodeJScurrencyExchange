@@ -11,6 +11,6 @@ to run this project :
 + download the js file and open the CMD on its directory 
 + run ```npm init ``` to initialize the project 
 + run ``` npm install request ``` ``` npm install express ``` ``` npm install body-parser ``` to download and install the required dependencies
-+ at last run ``` node project.js ``` and the website should be running at[http://127.0.0.1:5000/](http://127.0.0.1:5000/)
++ at last run ``` node project.js ``` and the website should be running at: [http://127.0.0.1:5000/](http://127.0.0.1:5000/)
 
 feel free to add any feedback on the project . 
